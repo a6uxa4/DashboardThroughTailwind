@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DashboardThroughTailwind/static/css/main.6be429c7.css",
+    "main.js": "/DashboardThroughTailwind/static/js/main.155316bf.js",
+    "index.html": "/DashboardThroughTailwind/index.html",
+    "main.6be429c7.css.map": "/DashboardThroughTailwind/static/css/main.6be429c7.css.map",
+    "main.155316bf.js.map": "/DashboardThroughTailwind/static/js/main.155316bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be429c7.css",
+    "static/js/main.155316bf.js"
+  ]
+}
